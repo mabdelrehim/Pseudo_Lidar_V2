@@ -1,3 +1,6 @@
 [submodule "Cylinder3D"]
 	path = Cylinder3D
 	url = https://github.com/xinge008/Cylinder3D.git
+[submodule "PointPainting"]
+	path = PointPainting
+	url = https://github.com/Song-Jingyu/PointPainting.git
